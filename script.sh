@@ -90,7 +90,7 @@ case $1 in
     echo "WELCOME DADDY DO YOU WANNA SHOW ME YOUR ****"
         ;;
     bye|googbye|soGood )
-    echo "GOODBAY DADDY YOUR **** WAS SO GOOD"
+    echo "GOODBYE DADDY YOUR **** WAS SO GOOD"
         ;;
     * )
     echo "DADDY WHY ARE YOU IGNORING ME :c"
